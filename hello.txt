@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello I am akash pawar. Hansen tech
+=======
+hello I am akash pawar
+>>>>>>> c78deb5b0457eddfb352ebd25d301a7b8d002945
